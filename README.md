@@ -17,7 +17,7 @@ Because `sfind` runs natively on Node, install it instantly as a global binary:
 
 ```bash
 # Clone the repository
-git clone https://github.com/opcha/sfind
+git clone https://github.com/Sirius6907/sfind-search.git
 
 # Navigate into the folder
 cd sfind
