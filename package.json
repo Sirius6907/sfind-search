@@ -1,0 +1,19 @@
+{
+  "name": "sfind-search",
+  "version": "1.0.0",
+  "description": "Smart Find - Decentralized Dark-Web Tracker CLI",
+  "main": "sfind.js",
+  "bin": {
+    "sfind": "./sfind.js"
+  },
+  "type": "module",
+  "scripts": {
+    "start": "node sfind.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.8",
+    "inquirer": "^9.2.16",
+    "ora": "^8.0.1",
+    "webtorrent": "^2.1.25"
+  }
+}
